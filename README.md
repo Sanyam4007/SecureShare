@@ -122,4 +122,4 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ## Contact  
 
-For any questions or security concerns, reach out at **hello@sanyam14.me**[mailto:hello@sanyam14.me].  
+For any questions or security concerns, reach out at **hello@sanyam14.me**.  
